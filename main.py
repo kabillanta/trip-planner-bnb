@@ -5,7 +5,7 @@ from google.cloud import bigquery
 import streamlit as st
 
 # Configure Gemini API
-genai.configure(api_key="AIzaSyABkPJSlnxv-YsFQUAvz704zHRT7gUQE10")
+genai.configure(api_key="API_KEY")
 
 # Set up the generation configuration
 generation_config = {
