@@ -1,5 +1,4 @@
 # Trip Planner - Build and Blog Marathon
-# Trip Planner App
 
 Planning a trip is exciting but can often be overwhelming. Wouldn’t it be great to have a personalized trip planner powered by Google technologies? In this guide, we’ll walk you through building your very own Trip Planner app, designed for beginners with step-by-step instructions.
 
