@@ -11,8 +11,8 @@ A streamlined web app for planning trips using AI-generated summaries and real-t
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/kabillanta/trip-planner-bnb.git
+   cd trip-planner-bnb
    ```
 
 2. Install dependencies:
@@ -32,3 +32,6 @@ A streamlined web app for planning trips using AI-generated summaries and real-t
 
 ## About
 This app leverages Google Cloud BigQuery and Gemini 2.0 Flash AI for intelligent trip planning. Perfect for travelers looking for personalized, efficient, and AI-enhanced recommendations.
+
+
+This app is built during Build and Blog marathon Bengaluru.
