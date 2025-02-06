@@ -37,7 +37,7 @@ Before you begin, make sure you have:
   - [Google Cloud SDK](https://cloud.google.com/sdk/docs/install)
 - Cloned the Trip Planner GitHub repository:
   ```bash
-  git clone https://github.com/yourusername/trip-planner.git
+  git clone https://github.com/kabillanta/trip-planner.git
   cd trip-planner
   ```
 - Enabled BigQuery and configured a dataset with travel information.
